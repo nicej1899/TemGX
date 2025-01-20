@@ -19,8 +19,6 @@ You will also need:
     - A trained model checkpoint of `DCRNN` architecture.
     - Adjust the import paths according to your project structure.
 
-Author: (Your Name)
-Date: (Your Date)
 """
 
 import torch
@@ -491,4 +489,4 @@ def main_first_layer():
 
 
 if __name__ == "__main__":
-    main_first_layer()
+    main()
